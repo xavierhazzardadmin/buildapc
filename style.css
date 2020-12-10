@@ -4,7 +4,33 @@
 	box-sizing: border-box;
 }
 
+/* navigation bar */
+.navigation {
+	color: rgb(222, 222, 213);
+}
+
 .home-title {
+	margin: 0.5rem 0.5rem 0.5rem 0;
+	width: 20rem;
+}
+
+.centered {
+	width: 50%;
+	text-align: center;
 	font-family: sans-serif;
-	color: gray;
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+
+.nav-link {
+	color: inherit !important;
+	margin-right: 2.5rem;
+}
+
+.text-field {
+	width: 100%;
+}
+
+.text-holder {
+	background: red;
 }
