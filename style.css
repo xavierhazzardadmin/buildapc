@@ -1,0 +1,10 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.home-title {
+	font-family: sans-serif;
+	color: gray;
+}
